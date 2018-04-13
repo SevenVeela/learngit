@@ -1,1 +1,1 @@
-no fast-forward
+no ff
