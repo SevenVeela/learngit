@@ -1,1 +1,1 @@
-new branch
+no fast-forward
