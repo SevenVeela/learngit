@@ -1,3 +1,3 @@
-no ff
+solved a bug
 
-i solved the bug
+and doing a lot work
